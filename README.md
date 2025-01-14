@@ -1,4 +1,4 @@
-**Project Description: Advertising Sales Prediction Using Linear Regression**
+# **Project Description: Advertising Sales Prediction Using Linear Regression**
 
 **Overview**
 
